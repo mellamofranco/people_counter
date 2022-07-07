@@ -1,0 +1,1 @@
+"# people_counter"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/mellamofranco/people_counter.gitgit push -u origin main
